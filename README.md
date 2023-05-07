@@ -18,3 +18,5 @@ People of age group 65+ not only suffer from physical distress but also mental d
 3. The Virtual Companion used here uses gpt-3.5-turbo-0301 model API to generate reponses and Google Translate’s Text-to-Speech API (gTTS) to generate speech from the genrated response.
 4. the frontend is made with the help of streamlit.
 
+## Screenshots:
+<img width="960" alt="Screenshot 2023-05-07 123348" src="https://user-images.githubusercontent.com/69252015/236663148-9a53a65e-eaa7-42e4-b05c-2a6e1cbaedb2.png">
