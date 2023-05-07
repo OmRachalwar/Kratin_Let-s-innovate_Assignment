@@ -19,7 +19,9 @@ People of age group 65+ not only suffer from physical distress but also mental d
 4. the frontend is made with the help of streamlit.
 
 ## Screenshots:
+![Assignment - Made with Clipchamp](https://user-images.githubusercontent.com/69252015/236663630-b930cd20-bde3-4033-9362-639637023777.gif)
 <img width="960" alt="Screenshot 2023-05-07 123348" src="https://user-images.githubusercontent.com/69252015/236663148-9a53a65e-eaa7-42e4-b05c-2a6e1cbaedb2.png">
 <img width="960" alt="Screenshot 2023-05-07 123528" src="https://user-images.githubusercontent.com/69252015/236663153-7ba9a1f3-5749-4dfe-bb0f-1c9671a90165.png">
 <img width="960" alt="Screenshot 2023-05-07 123431" src="https://user-images.githubusercontent.com/69252015/236663155-4462417f-87a7-4228-90ad-e4ef01eeff2f.png">
 <img width="960" alt="Screenshot 2023-05-07 123641" src="https://user-images.githubusercontent.com/69252015/236663158-2596c665-8233-4bbc-a676-fa80e3afceae.png">
+
